@@ -9,5 +9,5 @@
 
 Para executar os docker compose dos microservicos nas pastas dos projetos.
 ```sh
-docker compose up --build
+docker compose up -d
 ```
