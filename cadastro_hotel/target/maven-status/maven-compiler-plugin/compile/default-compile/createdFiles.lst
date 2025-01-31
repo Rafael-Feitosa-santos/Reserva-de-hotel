@@ -1,0 +1,14 @@
+br\com\exemplo\cadastro_hotel\exception\HotelNaoAtualizadoException.class
+br\com\exemplo\cadastro_hotel\repository\HotelRepository.class
+br\com\exemplo\cadastro_hotel\dto\HotelExibicaoDto.class
+br\com\exemplo\cadastro_hotel\dto\HotelCadastroDto.class
+br\com\exemplo\cadastro_hotel\exception\HotelNaoLocalizado.class
+br\com\exemplo\cadastro_hotel\controller\HotelController.class
+br\com\exemplo\cadastro_hotel\dto\HotelDto.class
+br\com\exemplo\cadastro_hotel\exception\HotelNaoEncontradoException.class
+br\com\exemplo\cadastro_hotel\model\Hotel.class
+br\com\exemplo\cadastro_hotel\service\HotelService.class
+br\com\exemplo\cadastro_hotel\advice\GlobalExceptionHandler.class
+br\com\exemplo\cadastro_hotel\config\SwaggerConfig.class
+br\com\exemplo\cadastro_hotel\exception\HotelNomeExistenteException.class
+br\com\exemplo\cadastro_hotel\CadastroHotelApplication.class

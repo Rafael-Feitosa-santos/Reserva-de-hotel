@@ -1,0 +1,14 @@
+com\example\Reserva\controller\ReservaController.class
+com\example\Reserva\ReservaApplication.class
+com\example\Reserva\dto\ReservaCadastroDto.class
+com\example\Reserva\repository\ReservaRepository.class
+com\example\Reserva\service\ReservaService.class
+com\example\Reserva\exception\HospedeExistenteException.class
+com\example\Reserva\exception\ReservaNãoAtualizadaException.class
+com\example\Reserva\dto\ReservaExibicaoDto.class
+com\example\Reserva\exception\ReservaNaoLocalizada.class
+com\example\Reserva\config\SwaggerConfig.class
+com\example\Reserva\model\StatusReserva.class
+com\example\Reserva\model\Reserva.class
+com\example\Reserva\advice\GlobalHandlerException.class
+com\example\Reserva\dto\ReservaDto.class

@@ -1,0 +1,14 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\Hotel - Reserva\cadastro_hotel\src\main\java\br\com\exemplo\cadastro_hotel\advice\GlobalExceptionHandler.java
+C:\Users\rafae\OneDrive\Área de Trabalho\Hotel - Reserva\cadastro_hotel\src\main\java\br\com\exemplo\cadastro_hotel\CadastroHotelApplication.java
+C:\Users\rafae\OneDrive\Área de Trabalho\Hotel - Reserva\cadastro_hotel\src\main\java\br\com\exemplo\cadastro_hotel\config\SwaggerConfig.java
+C:\Users\rafae\OneDrive\Área de Trabalho\Hotel - Reserva\cadastro_hotel\src\main\java\br\com\exemplo\cadastro_hotel\controller\HotelController.java
+C:\Users\rafae\OneDrive\Área de Trabalho\Hotel - Reserva\cadastro_hotel\src\main\java\br\com\exemplo\cadastro_hotel\dto\HotelCadastroDto.java
+C:\Users\rafae\OneDrive\Área de Trabalho\Hotel - Reserva\cadastro_hotel\src\main\java\br\com\exemplo\cadastro_hotel\dto\HotelDto.java
+C:\Users\rafae\OneDrive\Área de Trabalho\Hotel - Reserva\cadastro_hotel\src\main\java\br\com\exemplo\cadastro_hotel\dto\HotelExibicaoDto.java
+C:\Users\rafae\OneDrive\Área de Trabalho\Hotel - Reserva\cadastro_hotel\src\main\java\br\com\exemplo\cadastro_hotel\exception\HotelNaoAtualizadoException.java
+C:\Users\rafae\OneDrive\Área de Trabalho\Hotel - Reserva\cadastro_hotel\src\main\java\br\com\exemplo\cadastro_hotel\exception\HotelNaoEncontradoException.java
+C:\Users\rafae\OneDrive\Área de Trabalho\Hotel - Reserva\cadastro_hotel\src\main\java\br\com\exemplo\cadastro_hotel\exception\HotelNaoLocalizado.java
+C:\Users\rafae\OneDrive\Área de Trabalho\Hotel - Reserva\cadastro_hotel\src\main\java\br\com\exemplo\cadastro_hotel\exception\HotelNomeExistenteException.java
+C:\Users\rafae\OneDrive\Área de Trabalho\Hotel - Reserva\cadastro_hotel\src\main\java\br\com\exemplo\cadastro_hotel\model\Hotel.java
+C:\Users\rafae\OneDrive\Área de Trabalho\Hotel - Reserva\cadastro_hotel\src\main\java\br\com\exemplo\cadastro_hotel\repository\HotelRepository.java
+C:\Users\rafae\OneDrive\Área de Trabalho\Hotel - Reserva\cadastro_hotel\src\main\java\br\com\exemplo\cadastro_hotel\service\HotelService.java
