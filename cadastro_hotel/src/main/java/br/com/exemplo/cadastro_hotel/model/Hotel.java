@@ -26,7 +26,7 @@ public class Hotel {
     @NotBlank(message = "Informe o nome do estabelecimento")
     private String nomeHotel;
 
-    @Column(name = "QDE_VAGA")
+    @Column(name = "QTDE_VAGA")
     @Positive
     @NotNull(message = "Quantidade Obrigatória!!")
     private Integer quantidadeVaga;
