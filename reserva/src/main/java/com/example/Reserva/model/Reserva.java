@@ -24,7 +24,7 @@ public class Reserva {
 
     @Column(name = "DT_CHECK_IN")
     @NotNull(message = "A data de check-in é obrigatória")
-    private String dataCheckin;
+    private String dataCheckIn;
 
     @Column(name = "DT_CHECK_OUT")
     @NotNull(message = "A data de check-out é obrigatória")
@@ -51,12 +51,12 @@ public class Reserva {
         this.nomeHospede = nomeHospede;
     }
 
-    public String getDataCheckin() {
-        return dataCheckin;
+    public String getDataCheckIn() {
+        return dataCheckIn;
     }
 
-    public void setDataCheckin(String dataCheckin) {
-        this.dataCheckin = dataCheckin;
+    public void setDataCheckIn(String dataCheckIn) {
+        this.dataCheckIn = dataCheckIn;
     }
 
     public String getDataCheckOut() {
